@@ -12,7 +12,7 @@ Bu kod örnekleri Innova Payflex Sanal POS çözümünü kullanan İş Bankası,
 
 JDK 1.8 ile çalışan her türlü web uygulama container'da çalışabilir (özel kurulum ayarları gerekebilir). Testler Tomcat 9.0.x ile yapılmıştır.
 
-Ancak genel PCI-DSS uyumluluk kuralları gereği, bu örnek doğrudan canlı sistemlerde hiç bir şekilde doğrudan kullanılmamalıdır.
+Ancak genel PCI-DSS uyumluluk kuralları gereği, bu örnek kodları doğrudan canlı sistemlerde hiç bir şekilde doğrudan kullanmayınız.
 
 ## Lisans
 Bu demo kodları Apache 2.0 Lisansı ile OLDUĞU GİBİ sunulmaktadır, yanlış kullanımlar ve zararlardan dolayı hiç bir sorumluluk kabul edilmez. Her dizin altındaki lisans detaylarını kontrol ediniz.
