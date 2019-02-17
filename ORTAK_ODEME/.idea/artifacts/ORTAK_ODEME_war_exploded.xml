@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ORTAK_ODEME:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ORTAK_ODEME_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ORTAK_ODEME/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ORTAK_ODEME" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

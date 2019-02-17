@@ -1,0 +1,134 @@
+İngilizce lisans metni - License text in English at: http://www.apache.org/licenses/LICENSE-2.0
+
+Apache Lisansı
+
+Sürüm 2.0, Ocak 2004
+
+http://www.apache.org/licenses/
+
+KULLANMAK, YENİDEN ÜRETMEK VE DAĞITMAK İÇİN HÜKÜMLER VE KOŞULLAR
+
+1. Tanımlar.
+
+“Lisans” işbu belgenin Bölüm 1′den Bölüm 9′a kadar olan kısmında tanımlandığı gibi, kullanım, yeniden üretim ve
+dağıtım için konulan hüküm ve koşullar anlamına gelir.
+
+“Lisans veren”, telif hakkı sahibinin kendisi veya lisansı veren telif hakkı sahibinin yetkilendirdiği
+kişidir/kuruluştur.
+
+“Tüzel Kişi”, temsilci kuruluş ve onu denetleyen, onun tarafından denetlenen veya onunla ortak denetimde bulunan diğer
+tüm kuruluşların oluşturduğu birlik anlamına gelir. Bu tanımlama açısından denetlemek (i) doğrudan veya dolaylı olarak,
+sözleşme veya başka bir yolla böyle bir kuruluşun yönlendirilmesi veya yönetilmesini sağlayan güç, (ii) tedavüldeki
+hisse senetlerinin yüzde elli (%50) veya daha fazlasına sahip olma, veya (iii) böyle bir kuruluştan yararlanan hak
+sahibi anlamına gelir.
+
+“Siz” (veya “Sizin”), işbu lisansla verilen izinleri icra eden kişi veya tüzel kişilikleri tanımlar.
+“Kaynak” biçimi, yazılımın kaynak kodu, belgelendirme kaynağı ve kurulum dosyaları dahil ve bununla kısıtlı olmaksızın
+düzenlemelerin yapılması için tercih edilen biçimdir.
+
+“Nesne” biçimi; derlenen nesne kodu, oluşturulan belgelendirme ve diğer medya türlerine dönüştürme de dahil ve bununla
+kıstlı olmaksızın, bir kaynak biçiminin makineyle dönüştürülmesi veya çevrilmesi sonucu ortaya çıkan her türlü biçim
+anlamına gelir.
+
+“Çalışma”, Kaynak veya Nesne biçiminde, çalışmaya dahil edilen veya iliştirilen telif hakkı bildiriminde belirtildiği
+şekilde, lisansla erişilebilir kılınmış, bir yazarlık çalışması anlamındadır.
+
+“Türemiş Çalışmalar”, Kaynak veya Nesne biçiminde, çalışmaya dayanan (veya ondan türetilmiş) ve denetimsel incelemeler,
+açıklamalar, ayrıntılandırmalar ve diğer değişikliklerin bir bütün olarak bir yazarlık çalışmasını yansıttığı her türlü
+çalışma anlamındadır. İşbu lisansın amacı doğrultusunda türemiş çalışmalar, çalışma ve bununla ilgili türemiş
+çalışmalardan ayrılabilir veya ancak bunların arayüzlerine bağlanan (veya ada göre bağlanan) çalışmaları içermez.
+
+“Katkı”, çalışmanın özgün sürümü ve çalışma ya da bununla ilgili türemiş çalışmalara yapılan her türlü değişiklik veya
+ekleme dahil, telif hakkı sahibi veya onun adına sunma yetkisine sahip kişi veya tüzel kişi tarafından kasten çalışmaya
+eklenmesi için lisans verenin onayına sunulan her tür yazarlık çalışması anlamına gelir. Bu tanımın amacı doğrultusunda,
+“onayına sunmak”; elektronik posta listeleri, kaynak kod denetim sistemleri ile çalışmayı ele almak ve geliştirmek
+amacıyla lisans veren tarafından veya onun adına yürütülen iş takip sistemleri dahil ve bununla kısıtlı olmaksızın,
+telif hakkı sahibi tarafından “Katkı değildir” şeklinde bariz olarak işaretlenmiş veya yazılı olarak tanımlanmış ileti
+hariç, lisans verene veya temsilcilerine gönderilen her türlü elektronik, sözlü veya yazılı iletiyi kasteder.
+
+“Katkı sağlayan”, bir lisans veren tarafından adına bir katkının alındığı ve sonradan çalışma içerisine dahil edildiği
+Lisans Veren ve her türlü kişi veya tüzel kişilik anlamına gelir.
+
+2. Telif Hakkı Lisansının Verilmesi.
+
+İşbu lisansın hüküm ve koşullarına bağlı olarak, her bir katkı sağlayıcı, burada size çalışmayı ve kaynak veya nesne
+kodu biçimindeki türemiş çalışmaları yeniden üretmeniz, türemiş çalışmalarını hazırlamanız, kamu önünde göstermeniz,
+kamuya açık olarak icra etmeniz, altlisanslamanız ve dağıtmanız için gereken sürekli, dünya çapında geçerli, kişiye özel
+olmayan, bedelsiz, telif ücreti alınmayan, geri alınmayan bir telif hakkı lisansı vermektedir.
+
+3. Patent Lisansının Verilmesi.
+
+İşbu lisansın hüküm ve koşullarına bağlı olarak, çalışmayı yaptığınıza, yapmış olduğunuza, kullanmanıza, satmayı
+önermenize, satmanıza, içe aktarmanıza; veya bu gibi lisansların, gerektiğinde sadece bahsi geçen katkı sağlayanların
+katkıları tarafından veya sağladıkları katkıların çalışmayla birleşmesiyle ihlal edilen, lisansın bu katkı sağlayan
+tarafından lisanslanabilir patent iddalarına uygulanabildiği durumlarda çalışmayı aktarmanıza yönelik; her bir katkı
+sağlayıcı burada size sürekli, dünya çapında geçerli, kişiye özel olmayan, bedelsiz, telif ücreti alınmayan, geri
+alınmayan (bu bölümde belirtilen durumlar hariç) bir patent lisansı vermektedir. Eğer bir kuruma karşı, çalışmanın veya
+çalışmayla birleştirilen bir katkının patent hakkı ihlaline (doğrudan veya dolaylı olarak) yardım ettiği iddiasıyla
+patent davası (karşı talepte bulunmak veya karşı dava da dahil) açarsanız, bahsi geçen çalışma için işbu lisans altında
+size verilen her tür patent lisansı böyle bir davanın dosyalandığı tarihten itibaren sonlanır.
+
+4. Yeniden Dağıtım.
+
+Çalışmanın ve türemiş çalışmanın kopyalarını, değişikliklerin varlığında veya onlar olmaksızın, kaynak veya nesne
+biçiminde, aşağıdaki koşulları yerine getirdiğiniz takdirde her tür ortamda yeniden üretebilir veya dağıtabilirsiniz:
+
+   1. Çalışmanın ve türemiş çalışmanın kopyalarının diğer alıcılarına işbu lisansın bir kopyasını vermelisiniz, ve
+   2. Dosyaları değiştirdiğinize dair uyarıları göze görünür bir şekilde değiştirilen dosyaya iliştirmelisiniz, ve
+   3. Dağıttığınız türemiş çalışmaların kaynak biçimlerinde her tür telif hakkı, patent, ticari marka ve çalışmanın
+   kaynak biçiminin özellikleriyle ilgili bildirimleri, türemiş çalışmaların herhangi bir kısmıyla ilgili olmayan
+   uyarılar hariç, korumak zorundasınız, ve
+   4. Eğer çalışma dağıtımının bir parçası olarak “UYARI” metin dosyası içeriyorsa, dağıttığınız her türemiş çalışmanın
+   da, türemiş çalışmaların herhangi bir kısmıyla ilgili olmayan uyarılar hariç, aşağıdaki yerlerden en az birinde böyle
+   bir UYARI dosyasında yer alan özellik bildirimlerinin okunabilir bir kopyasını içermesi gerekmektedir: Türemiş
+   çalışmanın bir parçası olarak dağıtılan bir UYARI dosyasının içinde; eğer türemiş çalışmanın yanında verildiyse,
+   kaynak biçiminin veya belgelendirmenin içinde; veya bir üçüncü tarafın uyarıları normalde varsa ve her neredeyse,
+   türemiş çalışma tarafından üretilen bir görüntünün içinde. UYARI dosyasının içerikleri sadece bilgilendirme amacında
+   olup lisansı düzenlemez. Sonradan ek olarak koyulan uyarılar lisansı düzenlemek olarak yorumlanmadıkları sürece,
+   çalışmada yer alan UYARI metnine ek olarak veya onun yanında bulunacak şekilde, dağıttığınız türemiş çalışmanın içine
+   kendi uyarılarınızı ekleyebilirsiniz. Değişikliklerinize kendi telif hakkı açıklamanızı ekleyebilir; sizin
+   kullanmanız, yeniden üretmeniz ve çalışmayı dağıtmanız işbu lisansta yer alan koşullarla uyum içindeyse,
+   değişikliklerinizin kullanımı, yeniden üretimi veya dağıtımı, veya bu gibi bir türemiş çalışmanın tamamı için, ek
+   veya başka lisans hüküm ve koşulları sunabilirsiniz.
+
+5. Katkıların Sunumu.
+
+Açıkça başka türlü belirmediğiniz sürece, çalışmaya eklenmesi için tarafınızdan lisans verene sunulan her türlü katkı,
+herhangi ek hüküm ve koşul olmaksızın işbu lisansın hüküm ve koşulları altında olmalıdır. Yukarıda belirtilenlerden ayrı
+olarak, buradaki hususların hiçbiri, bahsi geçen katkılar hakkında lisans verenle düzenlenmiş olan başka bir lisans
+anlaşmasının hükümlerini yürürlükten kaldırmaz veya değiştirmez.
+
+6. Ticari Markalar.
+
+İşbu lisans; ticari ünvanları, ticari markaları, hizmet markalarını, veya lisans verenin ürün isimlerini; çalışmanın
+kökenini tanımlamak ve UYARI dosyasının içeriğini yeniden oluşturmak gibi makul ve alışılmış kullanım için gerekli
+olduğu durumlar dışında kullanma hakkı vermez.
+
+7. Teminatın Reddedilmesi.
+
+Yürürlükteki yasa tarafından gerekli görülmediği veya yazılı olarak onaylanmadığı sürece, lisans sahibi, MÜLKİYET,
+İHLAL DURUMU OLMAMASI, TİCARETE ELVERİŞLİLİK, veya ÖZEL BİR AMACA UYGUNLUK gibi teminat veya koşul olmaksızın ve bununla
+sınırlı kalmayarak, çalışmayı (ve katkı sağlayanların herbirini) açıkça veya üstü kapalı olarak, “HİÇBİR DEĞİŞİKLİK
+YAPMADAN” ESASIYLA, HİÇBİR TEMİNAT VEYA KOŞUL OLMAKSIZIN sunar. Siz sadece çalışmanın kullanıma ve yeniden dağıtıma
+uygunluğunu belirlemekten ve işbu lisans altında verilen izinlerin tarafınızdan kullanılmasıyla ilişkili riskleri
+üstlenmekten sorumlusunuz.
+
+8. Yükümlülüğün Sınırlandırılması.
+
+Yürürlükteki yasalarda (örneğin kasti veya fazla kusurlu yasalar) gerekmediği veya yazılı olarak belirtilmediği sürece,
+hiçbir durumda ve hiçbir hukuk kuramında, haksız muameleyle (ihmal dahil), sözleşmeyle veya başka yollarla, herhangi bir
+katkı sağlayıcı size karşı doğrudan, dolaylı, özel, tesadüfi hasarlardan veya işbu lisansın bir sonucu olarak veya
+çalışmanın kullanılmasındaki bir yetersizlikten ortaya çıkacak herhangi bir hasardan dolayı (itibar kaybı, işi durdurma,
+bilgisayar hatası veya arızası, veya ticari diğer hasar ve kayıplar dahil ve bununla sınırlı kalmaksızın), böyle bir
+katkı sağlayıcı bahsedilen hasarlara karşı uyarılmış olsa dahi, yükümlü değildir.
+
+9. Teminatın Kabulü veya Ek Yükümlülükler.
+
+Çalışmayı veya çalışmayla ilgili türemiş çalışmaları yeniden dağıtırken, desteğin, teminatın, tazminatın veya işbu
+lisansa uygun diğer yükümlülük zorunluluğu ve/veya hakların kabulünü önermeyi veya bunlar için ücret talep etmeyi
+seçebilirsiniz. Ancak, bu tür zorunlulukları kabul ederek; sadece her bir katkı sağlayıcıyı onlara karşı sizin böyle bir
+teminat veya ek yükümlülüğü kabul etmenizden kaynaklanan her türlü yükümlülükte onları korumak, onların zararını ödemek
+ve herbirinin zarar görmemesini sağlamak koşuluyla, bir diğer katkı sağlayan adına değil, sadece kendi adınıza ve kendi
+sorumluluğunuzla hareket edersiniz.
+
+HÜKÜM VE KOŞULLARIN SONU
