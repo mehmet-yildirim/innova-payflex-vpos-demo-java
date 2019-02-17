@@ -7,9 +7,11 @@ See https://sanalpos.innova.com.tr
 * 3DSECURE: Demo of simple 3D Secure enrollment integration and front-end redirection to bank's MPI/ACS screen for customer's own validation.
 * ORTAK_ODEME: Demo of simple integration to Innova Sanal POS Central Payment interfaces.
 
-# Setup
+# Setup & Usage
 
 Any web application container that can run with JDK 1.8 should be OK (specific setup instructions may apply). Tested with Tomcat 9.0.x
+
+However due to general PCI-DSS rules, please never ever use these samples on your production systems directly.
 
 ## License
 These demo codes is licensed under Apache 2.0 License and provided AS-IS, no responsibility for misuse and damage accepted. See license details under each directory.
