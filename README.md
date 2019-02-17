@@ -1,11 +1,13 @@
-# Innova Virtual POS Integration Demo
+[Türkçe](README.tr.md)
 
-These codes are some demo examples of how to get integrated to banks using Innova Virtual POS Solutions, such as İş Bankası, Ziraat Bankası and Vakıfbank, written using Java and JSP.
+# Innova Payflex Virtual POS Integration Demo
+
+These codes are some demo examples of how to get integrated to banks using Innova Payflex Virtual POS Solutions, such as İş Bankası, Ziraat Bankası and Vakıfbank, written using Java and JSP.
 See https://sanalpos.innova.com.tr
 
 * VPOS: Demo of XML integration for a simple sale operation.
 * 3DSECURE: Demo of simple 3D Secure enrollment integration and front-end redirection to bank's MPI/ACS screen for customer's own validation.
-* ORTAK_ODEME: Demo of simple integration to Innova Sanal POS Central Payment interfaces.
+* ORTAK_ODEME: Demo of simple integration to Innova Payflex Virtual POS Central Payment interfaces.
 
 # Setup & Usage
 
